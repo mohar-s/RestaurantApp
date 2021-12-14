@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "north-Indian.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

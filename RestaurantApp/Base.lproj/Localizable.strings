@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  RestaurantApp
+
+  Created by Mohar on 14/12/21.
+  
+*/
+
+"Total" = "Total";
+"SGST" = "SGST";
+"CGST" = "CGST";
+"Grand Total" = "Grand Total";
+"Home" = "Home";
+"What do you want to eat today?" = "What do you want to eat today?";
+"Popular Dish Today" = "Popular Dish Today";
+"Cart" = "Cart";
+"Ok" = "Ok";
+"Thank you adding the Items in the Cart" = "Thank you adding the Items in the Cart";
+"Cart is Empty" = "Cart is Empty";
+"items" = "items";
+"Empty Cart" = "Empty Cart";
+"Rs" = "Rs";
+"Language" = "Language";
+"Change Language" = "Change Language";
+"Please choose your Language" = "Please choose your Language";
+"Cancel" = "Cancel";

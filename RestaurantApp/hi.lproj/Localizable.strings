@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  RestaurantApp
+
+  Created by Mohar on 14/12/21.
+  
+*/
+
+"Total" = "कुल";
+"SGST" = "SGST";
+"CGST" = "CGST";
+"Grand Total" = "कुल योग";
+"Home" = "घर";
+"What do you want to eat today?" = "आज क्या खाना है?";
+"Popular Dish Today" = "आज का लोकप्रिय व्यंजन";
+"Cart" = "कार्ट";
+"Ok" = "ठीक";
+"Thank you adding the Items in the Cart" = "कार्ट में आइटम जोड़ने के लिए धन्यवाद";
+"Cart is Empty" = "कार्ट खाली है";
+"items" = "आइटम";
+"Empty Cart" = "खाली कार्ट";
+"Rs" = "रुपये";
+"Language" = "भाषा";
+"Change Language" = "भाषा बदलो";
+"Please choose your Language" = "कृपया अपनी भाषा चुनें";
